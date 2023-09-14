@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    }
+
+#logo{ 
+    height: 100px;
+    width: auto;
+}
+
+header{
+    border: 2px black;
+}
+div{
+    background-color: rgb(255, 255, 255);
+    border: 2px black;
+}
+
+p{
+
+ 
+}
+
+.borde{
+   border-style: solid;
+   border-color: rgba(128, 128, 128, 0.178);
+
+}
