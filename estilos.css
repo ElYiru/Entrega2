@@ -3,14 +3,23 @@
     padding: 0px;
     }
 
+#boton{
+    text-align: center;
+    
+    
+}
+#experienciaspasadas{
+    background-color: rgba(128, 128, 128, 0.414);
+    padding: 2px;
+}
 #logo{ 
     height: 100px;
     width: auto;
 }
 
-header{
-    border: 2px black;
-}
+
+    
+
 div{
     background-color: rgb(255, 255, 255);
     border: 2px black;
@@ -30,5 +39,8 @@ div{
 h1{
     
     text-align: left;
-   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+h1,h2{
+    margin-left: 20px;
 }
