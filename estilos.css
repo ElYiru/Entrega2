@@ -4,9 +4,39 @@
     }
 
 #boton{
+    margin: 20px;
     text-align: center;
     
     
+}
+#persona1{
+    margin-top: 10px;
+
+}
+#persona2{
+    margin-top: 10px;
+
+}
+#persona3{
+    margin-top: 10px;
+
+}
+#h1{
+    font-size: 72px;
+    margin-left: 90px;
+    
+    height: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    text-align: left;
+   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+#h2{
+
+    
+    margin-left: 90px;
+    font-size: 50px;
+    margin-top: 0px;
 }
 #experienciaspasadas{
     background-color: rgba(128, 128, 128, 0.414);
@@ -18,7 +48,11 @@
 }
 
 
-    
+    #carrousel{
+       margin: 0%;
+       padding: 0%;
+       border-style: solid;
+    }
 
 div{
     background-color: rgb(255, 255, 255);
@@ -26,21 +60,20 @@ div{
 }
 
 
-
+.tipografia{
+   font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+   
+}
 .borde{
    border-style: solid;
    border-color: rgba(128, 128, 128, 0.178);
 
 }
 
-
-
-
-h1{
-    
-    text-align: left;
-   font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+.tipografia2{
+    font-size: 12px;
 }
-h1,h2{
-    margin-left: 20px;
-}
+
+
+
+
