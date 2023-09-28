@@ -77,3 +77,12 @@ div{
 
 
 
+body {
+    overflow-x: hidden;
+}
+footer{
+    background-color: rgba(128, 128, 128, 0.414);
+}
+#contactanos{
+    text-align: center;
+}
